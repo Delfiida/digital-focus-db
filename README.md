@@ -9,6 +9,7 @@ A relational database project designed for a digital focus and productivity trac
 - Goal and reward tracking
 - Daily productivity summaries
 - Notification system
+- Application usage analytics
 
 ## Technologies Used
 - SQL Server
@@ -21,6 +22,23 @@ A relational database project designed for a digital focus and productivity trac
 - Constraints
 - Relational Database Design
 - Default Values
+- Aggregation Queries
+- JOIN Operations
+- GROUP BY Analysis
+
+## Files
+- `database.sql` → Full database schema and relationships
+- `queries.sql` → Analytical SQL queries for reporting and insights
+- `screenshots/` → Query result screenshots from SSMS
+
+## Sample Analyses
+The project includes analytical queries such as:
+- Most used applications
+- User focus performance
+- Goal completion statistics
+- Successful focus sessions
+- Daily productivity summaries
+- Reward and notification tracking
 
 ## Purpose
-This project was created to practice relational database design and SQL development by building a productivity-focused system structure.
+This project was created to practice relational database design, SQL development, and analytical query writing by building a productivity-focused system structure.
